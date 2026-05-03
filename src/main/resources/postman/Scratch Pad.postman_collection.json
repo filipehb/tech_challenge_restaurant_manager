@@ -371,7 +371,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n\t\"email\": \"teste@teste.com\",\n\t\"password\": \"teste\"\n}",
+              "raw": "{\n\t\"email\": \"teste@teste.com\",\n\t\"password\": \"teste2\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
